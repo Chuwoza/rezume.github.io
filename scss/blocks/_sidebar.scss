@@ -1,0 +1,41 @@
+.sidebar {
+  width: 370px;
+  // height: 1320px;
+  padding: 40px 0;
+  background-color: #1e2939;
+}
+.contacts-container {
+  margin: 60px 40px 0;
+}
+.contacts-main {
+  color: #fff;
+  padding-right: 10px;
+}
+.title-container {
+  color: #fff;
+  margin-bottom: 20px;
+}
+.contacts-links a {
+  color: #b3ca34;
+  text-decoration: none;
+}
+.my_foto {
+  width: 370px;
+  height: auto;
+}
+.skills-container {
+  margin: 55px 40px 0 40px;
+}
+.skills-item > li {
+  margin-left: 20px;
+  color: #ff6b08;
+}
+.skills-text {
+  color: #a6a8ad;
+}
+ol li {
+  counter-increment: initial;
+  line-height: 1;
+  margin-bottom: 10px;
+  list-style-position: inside;
+}

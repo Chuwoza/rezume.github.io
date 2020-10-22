@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f7fa;
+  padding: 40px 20px;
+}
+h1 {
+  font-size: 45px;
+  font-weight: 800;
+  line-height: 45px;
+}
+h2 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+h3 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+h4 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+h5 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.icon-mobile-phone,
+.icon-email,
+.icon-facebook {
+  color: white;
+  font-size: 20px;
+}
